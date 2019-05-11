@@ -220,7 +220,7 @@ ul.nav a:hover {
 		margin: 175px 0px 120px 0px;
 	}
 .cabecera-right{
-	background-image: url(../img/bg/01.svg);
+	background-image: url(../img/bg/Home-01.svg);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: 100%;
@@ -235,7 +235,7 @@ ul.nav a:hover {
 		margin: 175px 0px 120px 0px;
 	}
 .mini-right{
-	background-image: url(../img/bg/03.svg);
+	background-image: url(../img/bg/Home-02.svg);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: 100%;
@@ -573,7 +573,7 @@ a.boton-solido-formulario:hover{
 		margin: 120px 0px 0px 0px;
 	}
 .contacto-right{
-	background-image: url(../img/bg/02.svg);
+	background-image: url(../img/bg/Home-03.svg);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: 100%;
@@ -1079,7 +1079,7 @@ div.modal-body h4{
 		margin: 175px 0px 120px 0px;
 	}
 	.cabecera-right{
-		background-image: url(../img/bg/01.svg);
+		background-image: url(../img/bg/Home-01.svg);
 		background-repeat: no-repeat;
 		background-position: right bottom;
 		background-size: 100%;
@@ -1090,7 +1090,7 @@ div.modal-body h4{
 		margin: 175px 0px 120px 0px;
 	}
 	.mini-right{
-		background-image: url(../img/bg/03.svg);
+		background-image: url(../img/bg/Home-02.svg);
 		background-repeat: no-repeat;
 		background-position: right bottom;
 		background-size: 100%;
