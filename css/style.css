@@ -245,7 +245,6 @@ ul.nav a:hover {
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: 100%;
-	height: 580px;
 }
 .mini-left h1 {
 	font-size: 3em;
@@ -859,8 +858,8 @@ div.modal-body h4{
 	.mini-right {
 		background-position: center;
 		background-size: 80%;
-		height: 464px;
 		margin: 0px 0px 40px 0px;
+		height: 592px;
 	}
 	.contacto-right {
 		background-position: center bottom;
@@ -1103,7 +1102,7 @@ div.modal-body h4{
 		background-repeat: no-repeat;
 		background-position: right bottom;
 		background-size: 100%;
-		height: 488px;
+		height: 571px;
 	}
 	.navbar-toggle {
 		color: #fff;
