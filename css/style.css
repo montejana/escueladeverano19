@@ -70,7 +70,12 @@ p{
 /* =Menú
 -------------------------------------------------------------- */
 
-.navbar .nav .active a{
+.navbar .nav a:hover {
+	font-weight: 600;
+    border-bottom: solid 3px;
+}
+
+.navbar .nav a:active {
 	font-weight: 600;
     border-bottom: solid 3px;
 }
@@ -292,7 +297,7 @@ ul.nav a:hover {
 	padding: 10px;
 }
 .tabla-color-04{
-	background-color: #f768d2;
+	background-color: #F7BC00;
 	width: 25%;
 	padding: 10px;
 }
@@ -803,7 +808,7 @@ div.modal-body h4{
 }
 
 .color-05 {
-	background-color: #ff7e27;
+	background-color: #FF473A;
 }
 .color-02 {
 	background-color: #cf4dff;
@@ -812,10 +817,10 @@ div.modal-body h4{
 	background-color: #00a053;
 }
 .color-01 {
-	background-color: #3ee9af;
+	background-color: #00E09B;
 }
 .color-04 {
-	background-color: #f9e23a;
+	background-color: #efcf30;
 }
 
 .modal-body {
